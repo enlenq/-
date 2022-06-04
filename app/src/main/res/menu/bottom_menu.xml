@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ZJYC"
+        android:icon="@drawable/home"
+        android:title="ZJYC" />
+
+    <item
+        android:id="@+id/study"
+        android:icon="@drawable/study"
+        android:title="@string/fragment1" />
+
+    <item
+        android:id="@+id/edit"
+        android:icon="@drawable/edit"
+        android:title="@string/fragment2" />
+
+    <item
+        android:id="@+id/list"
+        android:icon="@drawable/list"
+        android:title="@string/fragment3" />
+
+    <item
+        android:id="@+id/login"
+        android:icon="@drawable/login"
+        android:title="@string/fragment4" />
+</menu>
+

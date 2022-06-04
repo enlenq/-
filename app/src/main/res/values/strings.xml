@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">千词杀</string>
+    <string name="fragment1">学习</string>
+    <string name="fragment2">增删</string>
+    <string name="fragment3">列表</string>
+    <string name="fragment4">用户</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

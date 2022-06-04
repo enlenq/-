@@ -1,0 +1,70 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.van"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="29"
+8-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:7:5-79
+11-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:7:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:8:5-67
+12-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:8:22-64
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:9:5-80
+13-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:9:22-78
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:10:5-79
+14-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:10:22-77
+15
+16    <application
+16-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:12:5-41:19
+17        android:allowBackup="true"
+17-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:13:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.5.0] D:\Android\gradle-7.2\caches\transforms-3\f5d35f68d2cc3eb6c0b5cd9fd1247d1f\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+19        android:extractNativeLibs="false"
+20        android:icon="@mipmap/icon1"
+20-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:14:9-37
+21        android:label="@string/app_name"
+21-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:15:9-41
+22        android:requestLegacyExternalStorage="true"
+22-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:21:9-52
+23        android:roundIcon="@mipmap/icon1_round"
+23-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:16:9-48
+24        android:supportsRtl="true"
+24-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:17:9-35
+25        android:theme="@style/Theme.Van"
+25-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:18:9-41
+26        android:usesCleartextTraffic="true" >
+26-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:20:9-44
+27        <activity
+27-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:23:9-32:20
+28            android:name="com.example.van.MainActivity"
+28-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:24:13-56
+29            android:exported="true" >
+29-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:26:13-36
+30            <intent-filter>
+30-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:27:13-31:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:28:17-69
+31-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:28:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:30:17-77
+33-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:30:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity android:name="com.example.van.register" >
+36-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:34:9-39:20
+36-->C:\Users\Dell\Desktop\van\app\src\main\AndroidManifest.xml:35:13-37
+37        </activity>
+38    </application>
+39
+40</manifest>

@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.example.van.app-merged_res-5:/drawable_three.png.flat",
+        "source": "com.example.van.app-main-6:/drawable/three.png"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/layout_wordlist.xml.flat",
+        "source": "com.example.van.app-main-6:/layout/wordlist.xml"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/mipmap-xxxhdpi_icon1_round.png.flat",
+        "source": "com.example.van.app-main-6:/mipmap-xxxhdpi/icon1_round.png"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/mipmap-xxhdpi_icon1.png.flat",
+        "source": "com.example.van.app-main-6:/mipmap-xxhdpi/icon1.png"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/layout_study.xml.flat",
+        "source": "com.example.van.app-main-6:/layout/study.xml"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/layout_login.xml.flat",
+        "source": "com.example.van.app-main-6:/layout/login.xml"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/layout_register.xml.flat",
+        "source": "com.example.van.app-main-6:/layout/register.xml"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/layout_list.xml.flat",
+        "source": "com.example.van.app-main-6:/layout/list.xml"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "com.example.van.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/mipmap-hdpi_icon1_round.png.flat",
+        "source": "com.example.van.app-main-6:/mipmap-hdpi/icon1_round.png"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/layout_zjyc.xml.flat",
+        "source": "com.example.van.app-main-6:/layout/zjyc.xml"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/mipmap-xxxhdpi_icon1.png.flat",
+        "source": "com.example.van.app-main-6:/mipmap-xxxhdpi/icon1.png"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/layout_tabhost.xml.flat",
+        "source": "com.example.van.app-main-6:/layout/tabhost.xml"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/mipmap-hdpi_icon1.png.flat",
+        "source": "com.example.van.app-main-6:/mipmap-hdpi/icon1.png"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/navigation_nav.xml.flat",
+        "source": "com.example.van.app-main-6:/navigation/nav.xml"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/drawable_login.png.flat",
+        "source": "com.example.van.app-main-6:/drawable/login.png"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/mipmap-xxhdpi_icon1_round.png.flat",
+        "source": "com.example.van.app-main-6:/mipmap-xxhdpi/icon1_round.png"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/drawable_study.png.flat",
+        "source": "com.example.van.app-main-6:/drawable/study.png"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/drawable_list.png.flat",
+        "source": "com.example.van.app-main-6:/drawable/list.png"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/drawable_four.png.flat",
+        "source": "com.example.van.app-main-6:/drawable/four.png"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/mipmap-xhdpi_icon1_round.png.flat",
+        "source": "com.example.van.app-main-6:/mipmap-xhdpi/icon1_round.png"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/menu_bottom_menu.xml.flat",
+        "source": "com.example.van.app-main-6:/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/mipmap-xhdpi_icon1.png.flat",
+        "source": "com.example.van.app-main-6:/mipmap-xhdpi/icon1.png"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/mipmap-ldpi_icon1.png.flat",
+        "source": "com.example.van.app-main-6:/mipmap-ldpi/icon1.png"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/layout_author.xml.flat",
+        "source": "com.example.van.app-main-6:/layout/author.xml"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/drawable_two.png.flat",
+        "source": "com.example.van.app-main-6:/drawable/two.png"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/mipmap-mdpi_icon1.png.flat",
+        "source": "com.example.van.app-main-6:/mipmap-mdpi/icon1.png"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/drawable_home.png.flat",
+        "source": "com.example.van.app-main-6:/drawable/home.png"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/layout_edit.xml.flat",
+        "source": "com.example.van.app-main-6:/layout/edit.xml"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/mipmap-mdpi_icon1_round.png.flat",
+        "source": "com.example.van.app-main-6:/mipmap-mdpi/icon1_round.png"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/layout_wronglist.xml.flat",
+        "source": "com.example.van.app-main-6:/layout/wronglist.xml"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/drawable_edit.png.flat",
+        "source": "com.example.van.app-main-6:/drawable/edit.png"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/mipmap-ldpi_icon1_round.png.flat",
+        "source": "com.example.van.app-main-6:/mipmap-ldpi/icon1_round.png"
+    }
+]

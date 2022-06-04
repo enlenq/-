@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\mipmap-xxxhdpi_icon1.png.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\mipmap-xxxhdpi\\icon1.png"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\layout_activity_main.xml.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\layout_zjyc.xml.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\layout\\zjyc.xml"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\layout_edit.xml.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\layout\\edit.xml"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\layout_register.xml.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\layout\\register.xml"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\layout_first.xml.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\layout\\first.xml"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\drawable_login.png.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\drawable\\login.png"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\layout_list.xml.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\layout\\list.xml"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\mipmap-hdpi_icon1_round.png.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\mipmap-hdpi\\icon1_round.png"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\layout_third.xml.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\layout\\third.xml"
+    },
+    {
+        "merged": "com.example.van.app-merged_res-5:/layout_login.xml.flat",
+        "source": "com.example.van.app-main-7:/layout/login.xml"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\layout_tabhost.xml.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\layout\\tabhost.xml"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\mipmap-xxhdpi_icon1_round.png.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\mipmap-xxhdpi\\icon1_round.png"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\drawable_edit.png.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\drawable\\edit.png"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\navigation_nav.xml.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\navigation\\nav.xml"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\drawable_study.png.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\drawable\\study.png"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\layout_author.xml.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\layout\\author.xml"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\menu_bottom_menu.xml.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\mipmap-xxhdpi_icon1.png.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\mipmap-xxhdpi\\icon1.png"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\layout_second.xml.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\layout\\second.xml"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\drawable_home.png.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\drawable\\home.png"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\mipmap-mdpi_icon1_round.png.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\mipmap-mdpi\\icon1_round.png"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\drawable_two.png.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\drawable\\two.png"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\layout_login.xml.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\layout_study.xml.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\layout\\study.xml"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\layout_four.xml.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\layout\\four.xml"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\mipmap-xhdpi_icon1.png.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\mipmap-xhdpi\\icon1.png"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\mipmap-ldpi_icon1_round.png.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\mipmap-ldpi\\icon1_round.png"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\drawable_list.png.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\drawable\\list.png"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\layout_wordlist.xml.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\layout\\wordlist.xml"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\mipmap-xxxhdpi_icon1_round.png.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\mipmap-xxxhdpi\\icon1_round.png"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\mipmap-mdpi_icon1.png.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\mipmap-mdpi\\icon1.png"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\mipmap-ldpi_icon1.png.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\mipmap-ldpi\\icon1.png"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\drawable_three.png.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\drawable\\three.png"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\drawable_four.png.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\drawable\\four.png"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\mipmap-xhdpi_icon1_round.png.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\mipmap-xhdpi\\icon1_round.png"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\layout_wronglist.xml.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\layout\\wronglist.xml"
+    },
+    {
+        "merged": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-merged_res-5:\\mipmap-hdpi_icon1.png.flat",
+        "source": "D:\\Android\\gradle-7.2\\daemon\\7.3.3\\com.example.van.app-main-7:\\mipmap-hdpi\\icon1.png"
+    }
+]
